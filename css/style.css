@@ -544,3 +544,10 @@ footer{
   display: block;
   margin: 0 auto;
 }
+
+#makeLarge{
+  width: 400px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
