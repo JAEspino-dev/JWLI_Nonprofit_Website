@@ -529,3 +529,18 @@ footer{
     max-width:16rem;
   }
 }
+
+
+#makeSmall{
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#makeMedium{
+  width: 300px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
